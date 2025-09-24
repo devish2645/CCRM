@@ -26,7 +26,7 @@ This guide provides instructions on how to compile, run, and interact with the C
 For the import feature to work, you can create sample data files in a `test-data` folder.
 
 **`test-data/sample_students.csv`**:
-```csv
+csv
 1,24bce10000,new student,newstudent.24bce10000@vitbhopal.ac.in
 2,24bce10001,new student2,newstudent2.24bce10001@vitbhopal.ac.in
 
